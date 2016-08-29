@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the makerspace_jobs feature.
+ */
+
+include_once 'makerspace_jobs.features.inc';
