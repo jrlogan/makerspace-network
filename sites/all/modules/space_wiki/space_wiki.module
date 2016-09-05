@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Space Wiki feature.
+ */
+
+include_once 'space_wiki.features.inc';
